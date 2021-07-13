@@ -1,6 +1,6 @@
 package com.company.enumeration;
 
-public enum CofeeSize {
+public enum CoffeeSize {
     SMALL,BIG,HUGE
 }
 

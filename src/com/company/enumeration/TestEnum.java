@@ -1,8 +1,8 @@
 package com.company.enumeration;
 
 public class TestEnum {
-    CofeeSize cf = CofeeSize.SMALL;
-    cf
-
+    public enum Size{SMALL,BIG,HUGE}
+    Size size = Size.SMALL;
 
 }
+
